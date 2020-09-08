@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="160.0">cn.sitedev.lod.improved.TeamLeader</node>
+    <node x="194.0" y="160.0">cn.sitedev.lod.TeamLeader</node>
+    <node x="183.5" y="0.0">cn.sitedev.lod.Course</node>
+    <node x="212.03589743589745" y="240.0">cn.sitedev.lod.LawOfDemeterTest</node>
+    <node x="275.5" y="80.0">cn.sitedev.lod.Employee</node>
+    <node x="18.035897435897454" y="240.0">cn.sitedev.lod.improved.LawOfDemeterTest</node>
+    <node x="74.65769230769232" y="80.0">cn.sitedev.lod.improved.Employee</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cn.sitedev.lod.improved.TeamLeader" target="cn.sitedev.lod.improved.Employee">
+      <point x="0.0" y="-15.0" />
+      <point x="63.0" y="135.0" />
+      <point x="92.99102564102563" y="135.0" />
+      <point x="-36.666666666666686" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.lod.TeamLeader" target="cn.sitedev.lod.Employee">
+      <point x="42.0" y="-15.0" />
+      <point x="299.0" y="135.0" />
+      <point x="293.83333333333337" y="135.0" />
+      <point x="-36.66666666666666" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.lod.LawOfDemeterTest" target="cn.sitedev.lod.Employee">
+      <point x="65.25" y="-15.0" />
+      <point x="364.2858974358975" y="215.0" />
+      <point x="341.5" y="215.0" />
+      <point x="341.5" y="135.0" />
+      <point x="367.1666666666667" y="135.0" />
+      <point x="36.66666666666667" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.lod.improved.LawOfDemeterTest" target="cn.sitedev.lod.improved.Employee">
+      <point x="65.25" y="-15.0" />
+      <point x="170.28589743589745" y="215.0" />
+      <point x="154.65" y="215.0" />
+      <point x="154.65" y="135.0" />
+      <point x="166.324358974359" y="135.0" />
+      <point x="36.666666666666686" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.lod.TeamLeader" target="cn.sitedev.lod.Course">
+      <point x="0.0" y="-15.0" />
+      <point x="257.0" y="135.0" />
+      <point x="244.99102564102566" y="135.0" />
+      <point x="244.99102564102566" y="60.0" />
+      <point x="249.3" y="60.0" />
+      <point x="18.799999999999983" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.lod.LawOfDemeterTest" target="cn.sitedev.lod.TeamLeader">
+      <point x="-65.25" y="-15.0" />
+      <point x="233.78589743589745" y="215.0" />
+      <point x="225.5" y="215.0" />
+      <point x="-31.5" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.lod.improved.LawOfDemeterTest" target="cn.sitedev.lod.improved.TeamLeader">
+      <point x="-65.25" y="-15.0" />
+      <point x="39.78589743589745" y="215.0" />
+      <point x="31.5" y="215.0" />
+      <point x="-31.5" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.lod.Employee" target="cn.sitedev.lod.Course">
+      <point x="0.0" y="-15.0" />
+      <point x="330.5" y="60.0" />
+      <point x="268.09999999999997" y="60.0" />
+      <point x="37.599999999999966" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.lod.improved.Employee" target="cn.sitedev.lod.Course">
+      <point x="-27.5" y="-15.0" />
+      <point x="102.15769230769232" y="50.0" />
+      <point x="192.90000000000003" y="50.0" />
+      <point x="-37.599999999999994" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="193.5" y="135.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

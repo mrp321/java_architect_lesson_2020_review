@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="75.0">cn.sitedev.dip.course.improved.constructorinjection.DepenceInversionTest</node>
+    <node x="0.0" y="0.0">cn.sitedev.dip.course.improved.interfaceinjection.DependenceInversionTest</node>
+    <node x="0.0" y="225.0">cn.sitedev.dip.course.improved.interfaceinjection.Tom</node>
+    <node x="115.0" y="225.0">cn.sitedev.dip.course.improved.constructorinjection.Tom</node>
+    <node x="230.0" y="225.0">cn.sitedev.dip.course.improved.setterinjection.Tom</node>
+    <node x="0.0" y="150.0">cn.sitedev.dip.course.improved.setterinjection.DepenceInversionTest</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.9" x="595.0" y="128.99999999999997" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
