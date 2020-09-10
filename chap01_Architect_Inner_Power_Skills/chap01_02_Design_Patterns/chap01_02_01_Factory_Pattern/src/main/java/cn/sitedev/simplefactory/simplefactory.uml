@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="80.0">cn.sitedev.simplefactory.JavaCourse</node>
+    <node x="146.0" y="80.0">cn.sitedev.simplefactory.PythonCourse</node>
+    <node x="111.83333333333336" y="328.0">cn.sitedev.simplefactory.improved.SimpleFactoryTest</node>
+    <node x="172.04166666666666" y="0.0">cn.sitedev.simplefactory.ICourse</node>
+    <node x="142.0" y="160.0">cn.sitedev.simplefactory.improved.CourseFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cn.sitedev.simplefactory.PythonCourse" target="cn.sitedev.simplefactory.ICourse">
+      <point x="0.0" y="-15.0" />
+      <point x="217.0" y="55.0" />
+      <point x="223.04166666666666" y="55.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.simplefactory.improved.SimpleFactoryTest" target="cn.sitedev.simplefactory.improved.CourseFactory">
+      <point x="-45.50000000000003" y="-15.0" />
+      <point x="165.33333333333331" y="215.0" />
+      <point x="179.5" y="215.0" />
+      <point x="-37.5" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.simplefactory.improved.CourseFactory" target="cn.sitedev.simplefactory.PythonCourse">
+      <point x="-2.8421709430404007E-14" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.simplefactory.improved.CourseFactory" target="cn.sitedev.simplefactory.ICourse">
+      <point x="49.99999999999997" y="-15.0" />
+      <point x="267.0" y="135.0" />
+      <point x="298.5" y="135.0" />
+      <point x="298.5" y="55.0" />
+      <point x="257.0416666666667" y="55.0" />
+      <point x="34.00000000000003" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.simplefactory.JavaCourse" target="cn.sitedev.simplefactory.ICourse">
+      <point x="0.0" y="-15.0" />
+      <point x="63.0" y="55.0" />
+      <point x="189.04166666666666" y="55.0" />
+      <point x="-34.0" y="15.0" />
+    </edge>
+    <edge source="cn.sitedev.simplefactory.improved.CourseFactory" target="cn.sitedev.simplefactory.JavaCourse">
+      <point x="-50.00000000000003" y="-15.0" />
+      <point x="167.0" y="135.0" />
+      <point x="63.0" y="135.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="151.0" y="135.0" />
+  <SelectedNodes>
+    <node>cn.sitedev.simplefactory.improved.SimpleFactoryTest</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
